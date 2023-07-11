@@ -16,4 +16,11 @@ Result
 
 Conclusion
 ---
-Fake news detection using machine learning algorithms is a promising approach to combating fake news. Machine learning algorithms can analyze large datasets and identify patterns that are commonly found in fake news articles. By detecting fake news articles before they are widely disseminated, machine learning algorithms can prevent the harm caused by fake news.It is important to use diverse datasets and other techniques, such as fact-checking, to verify the authenticity of news articles.utilizing machine learning algorithms for fake news detection shows promise due to their ability to analyze large datasets and identify patterns commonly associated with fake news. However, it is crucial to ensure diverse training datasets and employ complementary techniques, like fact-checking, to enhance the accuracy and reliability of the detection process. Combining these approaches can help in the ongoing battle against fake news and contribute to a more informed society.
+Fake news detection using machine learning algorithms is a promising approach to combating fake news. Machine learning algorithms can analyze large datasets and identify patterns that are commonly found in fake news articles. By detecting fake news articles before they are widely disseminated, machine learning algorithms can prevent the harm caused by fake news.We have used publically available Kaggle’s Fake News dataset, which 
+comprising of 20,800 news articles among which 10,387 are real and 10,413 are fake 
+news labeled as binary 0 and 1. 
+ We have utilized commonly used machine learning 
+classifiers such as Decision Tree, Logistic Regression, Decision Tree Classifier, Gradient Boost Classifier and  Random Forest Classifier to analyze the dataset.
+The experimental results show that, our proposed approach achieved 
+accuracy as shown in the above table.
+It is important to use diverse datasets and other techniques, such as fact-checking, to verify the authenticity of news articles.utilizing machine learning algorithms for fake news detection shows promise due to their ability to analyze large datasets and identify patterns commonly associated with fake news. However, it is crucial to ensure diverse training datasets and employ complementary techniques, like fact-checking, to enhance the accuracy and reliability of the detection process. Combining these approaches can help in the ongoing battle against fake news and contribute to a more informed society.
